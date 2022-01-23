@@ -1,5 +1,5 @@
 MailSignatureDownload
-Aplikacja WPF C# do pobierania i przeglądania podpisu poczty z OWA
+Aplikacja WPF C# do pobierania i przeglądania podpisu maila z OWA
 
 Funkcja do pobierania podpisu poczty (public void GetSignature) znajduje się w klasie ViewModel.
 
